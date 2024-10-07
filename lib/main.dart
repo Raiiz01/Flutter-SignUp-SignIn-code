@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:verifypages/Screens/homeScreen.dart';
-import 'package:verifypages/Screens/verificationCode.dart';
 
 void main() {
   runApp(MyApp());
